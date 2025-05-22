@@ -1,3 +1,6 @@
+<!-- Full-width header image -->
+<img src="assets/header.PNG" alt="Header Image" style="width:100%;"/>
+
 # 👋 Hi there!
 
 I'm passionate about uncovering insights from data and modeling complex systems using advanced mathematical tools. My work focuses on areas like:
