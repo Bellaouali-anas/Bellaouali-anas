@@ -1,5 +1,5 @@
 <!-- Full-width header image -->
-<img src="assets/header.PNG" alt="Header Image" style="width:100%;"/>
+<img src="assets/Banner.PNG" alt="Header Image" style="width:100%;"/>
 
 # 👋 Hi there!
 
